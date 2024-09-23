@@ -34,59 +34,5 @@
     "price": 1999,
     "qty": 20,
     "status": "Active"
-  },
-  {
-    "id": 8773141,
-    "nop": 32,
-    "name": "ULTRA LITE Men Running Shoes For Beginners - Grey",
-    "category": "Running Men collect...",
-    "price": 1999,
-    "qty": 15,
-    "status": "Active"
-  },
-  {
-    "id": 8774139,
-    "nop": 30,
-    "name": "Men Urban Walking Shoes Soft 140.2 - Navy",
-    "category": "Men Shoes",
-    "price": 20000,
-    "qty": 5,
-    "status": "Active"
-  },
-  {
-    "id": 8771908,
-    "nop": 33,
-    "name": "Men's Urban Walking Shoes Actiwalk 500 - grey",
-    "category": "Running & Walking Sh...",
-    "price": 999,
-    "qty": 100,
-    "status": "Active"
-  },
-  {
-    "id": 8771847,
-    "nop": 30,
-    "name": "Men Urban Walking Shoes Soft 140.2 - Navy",
-    "category": "Men Shoes",
-    "price": 999,
-    "qty": 54,
-    "status": "Active"
-  },
-  {
-    "id": 8787075,
-    "nop": 30,
-    "name": "Canvas Skateboarding / Longboarding Low-Top Shoes Vulca 500 - Black",
-    "category": "Men Shoes",
-    "price": 999,
-    "qty": 320,
-    "status": "Active"
-  },
-  {
-    "id": 8807737,
-    "nop": 30,
-    "name": "PW 160 Men's Fitness Walking Sandals - Brown",
-    "category": "Men Shoes",
-    "price": 999,
-    "qty": 10,
-    "status": "Active"
   }
 ]
